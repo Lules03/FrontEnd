@@ -1,0 +1,17 @@
+#Proyectos {
+    padding: 20px;
+    background-color: #f3f3f3;
+}
+
+.Proyectos .titulo-seccion {
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #111135;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px;
+}
+
+h3, h5{
+    display: inline;
+}

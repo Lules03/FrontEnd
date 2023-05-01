@@ -1,0 +1,10 @@
+.row{
+    background: linear-gradient( #cd6d6dcc, rgba(33, 16, 16, 0.8)), url(../../../assets/img/banner2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-position: center center;
+    padding: 100px 0;
+    text-align: center;
+}
